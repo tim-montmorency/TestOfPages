@@ -2,10 +2,10 @@ body{
     max-width: 1000px;
     margin: 0 auto;
 }
-.retour_accueil {
+header {
     padding: 20px 20px;
 }
-.presentation_projet, .journal_creation, .pied_page {
+.presentation_projet, .journal_creation, footer {
     padding: 10px 40px 20px 40px;
 }
 
@@ -40,7 +40,7 @@ body{
 }
 
 /* PIED DE PAGE */
-.pied_page {
+footer {
     background-color: gray;
     text-align: right;
 }
