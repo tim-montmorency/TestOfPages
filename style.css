@@ -2,7 +2,7 @@ body{
     max-width: 1000px;
     margin: 0 auto;
 }
-.presentation_generale, .presentation_projets, footer {
+section, footer {
     padding: 10px 40px 20px 40px;
 }
 
